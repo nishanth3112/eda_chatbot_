@@ -1,12 +1,13 @@
 # **Conversational EDA Chatbot**
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-lightgreen)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4%20%2F%20GPT--3.5--Turbo-green)
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-orange)
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
-![API](https://img.shields.io/badge/Integration-OpenAI%20API-yellow)
-![Prompt Engineering](https://img.shields.io/badge/Feature-Prompt%20Engineering-purple)
+![MySQL](https://img.shields.io/badge/Database-MySQL-lightblue)
+![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red)
+![Prompt Engineering](https://img.shields.io/badge/Feature-Prompt%20Engineering-yellow)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib%20%2B%20Plotly-purple)
+![API](https://img.shields.io/badge/API-Integration-lightgrey)
 
 This project demonstrates the implementation of a **Streamlit-based conversational chatbot** integrated with **LangChain** and **OpenAI** for **Exploratory Data Analysis (EDA)**.  
 The system enables natural language interaction with a **MySQL database**, allowing users to perform data exploration and visualization without writing code or SQL queries manually.
