@@ -19,8 +19,8 @@ The chatbot converts these queries into SQL commands, fetches data from **MySQL*
 ---
 
 ## 🧩 **Architecture**
+<img width="540" height="409" alt="architecture_diagram" src="https://github.com/user-attachments/assets/c2473b24-6812-4e13-bc4a-f407bf7aff9d" />
 
-> *(Insert your architecture diagram here — e.g., `![Architecture](./architecture_diagram.png)`)*
 
 **Flow:**
 1. User inputs a query in **Streamlit**.  
